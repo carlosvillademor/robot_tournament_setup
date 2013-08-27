@@ -1,9 +1,9 @@
 PLAYERNAME=patrick_carlos
-IP=10.100.84.125:3000
+IP=10.100.84.125
 FILENAME=Main
 
 # Java: 
-javac PLAYERNAME/FILNENAME.java
+javac $PLAYERNAME/$FILENAME.java
 
 # Scala: 
 # scalac -d PLAYERNAME/ PLAYERNAME/FILNENAME.scala
