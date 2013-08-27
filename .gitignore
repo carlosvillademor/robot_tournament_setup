@@ -1,2 +1,6 @@
 # MAC
 *.DS_Store
+*.class
+*.iml
+*.ims
+.idea
