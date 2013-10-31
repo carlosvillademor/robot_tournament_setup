@@ -1,8 +1,9 @@
 #!/bin/sh
 
-FILENAME=Main
+FILENAME=robot.Main
 
 # Java
+cd src/main/java
 java $FILENAME "$@"
 
 # Scala
