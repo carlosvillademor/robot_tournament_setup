@@ -3,7 +3,7 @@ IP=10.100.84.125
 FILENAME=Main
 
 # Java: 
-javac $PLAYERNAME/$FILENAME.java
+javac patrick_carlos/src/main/java/robot/*.java
 
 # Scala: 
 # scalac -d PLAYERNAME/ PLAYERNAME/FILNENAME.scala
